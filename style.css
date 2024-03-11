@@ -15,8 +15,21 @@
     font-weight: 1000;
   }
 .total{
-    color: rgb(101, 98, 98);
-    font-size: 20PX;
+    color: rgb(61, 59, 59);
+    font-size: 30PX;
     margin: 0px 300px 15px;
+}
+
+.procent{
+    color: red;
+    margin-left: 310px;
+    font-weight: 1000;
+
+}
+
+.since{
+    color: rgb(98, 98, 98);
+    margin-left: 310px;
+
 }
 
