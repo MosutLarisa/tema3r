@@ -1,0 +1,17 @@
+.bi-briefcase{
+    color: rgb(250, 88, 153);
+    font-size: 40px;
+    padding: 30px;
+    margin-left: 300px;
+    background-color: rgb(245, 228, 239);
+    background-size: 100px;
+    border-radius: 25px;
+
+}
+.nr {
+    font-family: "Noto Sans Indic Siyaq Numbers", sans-serif;
+    font-size: 60px;
+    margin: 30px 300px 15px;
+    font-weight: 1000;
+  }
+
